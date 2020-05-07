@@ -5,3 +5,6 @@
 
 ## HW 1 (22.04.2020)
 [Here](HW1/homework_1.html) is my homework 1.
+
+## HW 2 (07.05.2020)
+[Here](hw_2/HW 2-3.html) is my homework 2.
