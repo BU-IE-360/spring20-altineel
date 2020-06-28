@@ -9,5 +9,5 @@
 ## HW 2 (07.05.2020)
 [Here](hw_2/HW_2.html) is my homework 2.
 
-## HW 2 (28.06.2020)
+## HW 4-5 (28.06.2020)
 [Here](hw4-5/HW_4_5.html) is my homework 4-5.
