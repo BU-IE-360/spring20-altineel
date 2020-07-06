@@ -13,4 +13,6 @@
 [Here](hw4-5/HW_4_5.html) is my homework 4-5.
 
 ## Project (06.07.2020)
-[Here](Project) is my Project
+[Here](Project/IE_360_Project_Report_pdf.pdf) is my Report of Project
+[Here](Project/Final.html) is my code for forecast method
+[Here](Project/Forecast.html) is my explarotory analysis
